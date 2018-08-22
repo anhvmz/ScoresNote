@@ -36,6 +36,7 @@ export default class NewGameComponent extends Component {
         );
     }
 }
+
 const styles = StyleSheet.create({
     
     root: { 
